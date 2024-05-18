@@ -7,3 +7,10 @@ Welcome to Moovie, a dynamic mobile application developed with React Native and 
 - Comprehensive Search: Easily find movies and filter by genre to match your preferences.
 - Movie Lists: Stay updated with popular, now playing, and upcoming movie lists.
 - Personalized Watchlist: Create a watchlist to keep track of movies you want to watch and discover similar movies based on your tastes.
+
+## Technologies
+- React Native: For building the mobile application.
+- Redux: For state management.
+- Axios: For making API calls.
+- JavaScript: The primary programming language used for development.
+- Styled Components: For applying styles to components.
